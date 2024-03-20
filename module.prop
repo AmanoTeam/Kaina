@@ -1,0 +1,7 @@
+id=kaina
+name=Writable MicroSD
+version=0.1
+versionCode=1
+author=Kartatz
+description=Allow Android apps holding the WRITE_EXTERNAL_STORAGE permission to read and write on the MicroSD card.
+support=https://github.com/AmanoTeam/Kaina
